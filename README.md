@@ -28,7 +28,7 @@ This repository contains SQL practice queries based on the Company_SD sample dat
 
 ## Files
 - `company_sd_queries.sql`
-- `schema.png`
+- <img width="1286" height="749" alt="Screenshot 2026-02-12 163501" src="https://github.com/user-attachments/assets/3b899f2a-82c9-4be8-8be1-6769ed9a4cb5" />
 
 ## Database Used
 SQL Server
