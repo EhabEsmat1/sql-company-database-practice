@@ -1,10 +1,3 @@
-SELECT * FROM Employee
-SELECT * FROM Project
-SELECT * FROM Works_for
-SELECT * FROM Departments
-SELECT * FROM Dependent
-
-
 --1
 SELECT * FROM Employee
 WHERE Dno = 10;
