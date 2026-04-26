@@ -1,6 +1,4 @@
-# sql-company-database-practice
-# SQL Company Database Practice
-
+# SQL-Company-Database-Practice
 This repository contains SQL practice queries based on the Company_SD sample database.
 
 ## Skills Demonstrated
